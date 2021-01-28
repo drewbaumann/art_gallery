@@ -1,0 +1,738 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4765,
+      "max": [
+        541.83306884765625,
+        21.055389404296875,
+        244.00401306152344
+      ],
+      "min": [
+        -541.8330078125,
+        -21.055395126342773,
+        209.00375366210938
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 57180,
+      "componentType": 5126,
+      "count": 4765,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4765,
+      "max": [
+        0.99756056070327759,
+        0.99107944965362549
+      ],
+      "min": [
+        0.0020000000949949026,
+        0.0020000000949949026
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 18342,
+      "max": [
+        4764
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 114360,
+      "componentType": 5126,
+      "count": 6939,
+      "max": [
+        538.1669921875,
+        30.914388656616211,
+        238.21049499511719
+      ],
+      "min": [
+        -508.63092041015625,
+        -30.914396286010742,
+        16.863254547119141
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 197628,
+      "componentType": 5126,
+      "count": 6939,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 38120,
+      "componentType": 5126,
+      "count": 6939,
+      "max": [
+        0.99476194381713867,
+        0.98865532875061035
+      ],
+      "min": [
+        0.11201602965593338,
+        0.0020000000949949026
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 73368,
+      "componentType": 5125,
+      "count": 33870,
+      "max": [
+        6938
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 280896,
+      "componentType": 5126,
+      "count": 289,
+      "max": [
+        31.761165618896484,
+        10.13925838470459,
+        61.550022125244141
+      ],
+      "min": [
+        15.750883102416992,
+        -10.139269828796387,
+        45.539741516113281
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 284364,
+      "componentType": 5126,
+      "count": 289,
+      "max": [
+        0.99997860193252563,
+        1,
+        0.99837929010391235
+      ],
+      "min": [
+        -0.99837899208068848,
+        -1,
+        -0.99997860193252563
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 93632,
+      "componentType": 5126,
+      "count": 289,
+      "max": [
+        0.96021878719329834,
+        0.86591929197311401
+      ],
+      "min": [
+        0.94106543064117432,
+        0.84676599502563477
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 208848,
+      "componentType": 5125,
+      "count": 1680,
+      "max": [
+        288
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 287832,
+      "componentType": 5126,
+      "count": 36,
+      "max": [
+        28.955799102783203,
+        6.1008758544921875,
+        56.973056793212891
+      ],
+      "min": [
+        20.327846527099609,
+        -6.1008892059326172,
+        48.345108032226562
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 288264,
+      "componentType": 5126,
+      "count": 36,
+      "max": [
+        0.99838030338287354,
+        0.74620318412780762,
+        0.056892856955528259
+      ],
+      "min": [
+        -0.05691811814904213,
+        -0.74620246887207031,
+        -0.9983789324760437
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 95944,
+      "componentType": 5126,
+      "count": 36,
+      "max": [
+        0.95477741956710815,
+        0.86047804355621338
+      ],
+      "min": [
+        0.9465067982673645,
+        0.85220730304718018
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 215568,
+      "componentType": 5125,
+      "count": 144,
+      "max": [
+        35
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 288696,
+      "componentType": 5126,
+      "count": 370,
+      "max": [
+        62.294609069824219,
+        31.467985153198242,
+        60.841819763183594
+      ],
+      "min": [
+        16.459079742431641,
+        -31.467994689941406,
+        15.006294250488281
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 293136,
+      "componentType": 5126,
+      "count": 370,
+      "max": [
+        0.99955505132675171,
+        1,
+        0.99955487251281738
+      ],
+      "min": [
+        -0.99955487251281738,
+        -1,
+        -0.99955493211746216
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 96232,
+      "componentType": 5126,
+      "count": 370,
+      "max": [
+        0.32649609446525574,
+        0.891448974609375
+      ],
+      "min": [
+        0.29060530662536621,
+        0.85640203952789307
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 216144,
+      "componentType": 5125,
+      "count": 1716,
+      "max": [
+        369
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 297576,
+      "componentType": 5126,
+      "count": 14790,
+      "max": [
+        77.300888061523438,
+        40,
+        235.41014099121094
+      ],
+      "min": [
+        -85.333648681640625,
+        -40,
+        5.7220458984375e-06
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 475056,
+      "componentType": 5126,
+      "count": 14790,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 99192,
+      "componentType": 5126,
+      "count": 14790,
+      "max": [
+        0.99799996614456177,
+        0.99204909801483154
+      ],
+      "min": [
+        0.0020000000949949026,
+        0.0020000154618173838
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 223008,
+      "componentType": 5125,
+      "count": 59148,
+      "max": [
+        14789
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Skover (https://sketchfab.com/Skover)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/303572-canno-railing-lightstar-track-light-ec74a14a825641449a95849a6e79b2e0",
+      "title": "303572 Canno Railing Lightstar track light"
+    },
+    "generator": "Sketchfab-8.45.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 459600,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 217512,
+      "byteOffset": 459600,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 652536,
+      "byteOffset": 677112,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1329648,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Kraska_black_metallicRoughness.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Kraska_black",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "metallicFactor": 0,
+        "metallicRoughnessTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "roughnessFactor": 1
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Metall_Steel_simple",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 1,
+        "roughnessFactor": 0.16634908536585366
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Gray_plastik",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.68464176830000001,
+          0.68464176830000001,
+          0.68464176830000001,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1,
+        1,
+        1
+      ],
+      "name": "Material_40",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Glass_Lampochka_simple",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          0
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Plastik_Shagren_Black",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0078125,
+          0.0078125,
+          0.0078125,
+          1
+        ],
+        "metallicFactor": 0,
+        "metallicRoughnessTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "303572_Canno_Railing_Lightstar_Kraska_black_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "303572_Canno_Railing_Lightstar_Metall_Steel_simple_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "303572_Canno_Railing_Lightstar_Gray_plastik_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "303572_Canno_Railing_Lightstar_Material #40_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "303572_Canno_Railing_Lightstar_Glass_Lampochka_simple_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 17,
+            "POSITION": 16,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "303572_Canno_Railing_Lightstar_Plastik_Shagren_Black_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TEXCOORD_0": 22
+          },
+          "indices": 23,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "fb0322abf25d43c48feba1f4a26aaac9.fbx"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.2204460492503131e-16,
+        -1,
+        0,
+        0,
+        1,
+        2.2204460492503131e-16,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "303572_Canno_Railing_Lightstar"
+    },
+    {
+      "mesh": 0,
+      "name": "303572_Canno_Railing_Lightstar_Kraska_black_0"
+    },
+    {
+      "mesh": 1,
+      "name": "303572_Canno_Railing_Lightstar_Metall_Steel_simple_0"
+    },
+    {
+      "mesh": 2,
+      "name": "303572_Canno_Railing_Lightstar_Gray_plastik_0"
+    },
+    {
+      "mesh": 3,
+      "name": "303572_Canno_Railing_Lightstar_Material #40_0"
+    },
+    {
+      "mesh": 4,
+      "name": "303572_Canno_Railing_Lightstar_Glass_Lampochka_simple_0"
+    },
+    {
+      "mesh": 5,
+      "name": "303572_Canno_Railing_Lightstar_Plastik_Shagren_Black_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
+
